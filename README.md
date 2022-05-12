@@ -16,3 +16,4 @@
 <https://www.phoronix.com/scan.php?page=article&item=nvidia-open-kernel&num=1>  
 <https://www.zdnet.com/article/nvidia-finally-releases-open-source-gpu-kernel-modules-for-linux/>  
 <https://blogs.gnome.org/uraeus/2022/05/11/why-is-the-open-source-driver-release-from-nvidia-so-important-for-linux/>
+<https://www.tomshardware.com/news/nvidia-open-sources-linux-drivers>
