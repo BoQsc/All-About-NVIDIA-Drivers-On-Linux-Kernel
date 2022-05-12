@@ -19,6 +19,7 @@ Published the source code to a variant of the NVIDIA Linux kernel modules **dual
 <https://blogs.gnome.org/uraeus/2022/05/11/why-is-the-open-source-driver-release-from-nvidia-so-important-for-linux/>
 <https://www.tomshardware.com/news/nvidia-open-sources-linux-drivers>  
 <https://www.pcgamer.com/the-unthinkable-has-happened-nvidia-has-finally-embraced-open-source-gpu-drivers/>  
+<https://news.itsfoss.com/nvidia-open-source-linux/?fbclid=IwAR0I0FzFv2wV3_BZITcht_nuFZO1Z5bcZeBhJwxlE-QCs_zxGUOJGXMDrng>
 
 ### Supported Products
 ```
