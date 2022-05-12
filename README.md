@@ -21,6 +21,9 @@ Published the source code to a variant of the NVIDIA Linux kernel modules **dual
 <https://www.pcgamer.com/the-unthinkable-has-happened-nvidia-has-finally-embraced-open-source-gpu-drivers/>  
 <https://news.itsfoss.com/nvidia-open-source-linux/>  
 
+### Educational Content
+[NVIDIA Open Sources Their Drivers - Mental Outlaw - Youtube.com](https://www.youtube.com/watch?v=7MjtsiATEGQ)
+
 ### Supported Products
 ```
 NVIDIA TITAN Series:
