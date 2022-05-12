@@ -5,6 +5,7 @@
 <https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/>
 
 ### GitHub Repository
+Published the source code to a variant of the NVIDIA Linux kernel modules dual-licensed as MIT/GPLv2.  
 <https://github.com/NVIDIA/open-gpu-kernel-modules>
 
 ### Compiled Download
