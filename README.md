@@ -1,6 +1,10 @@
 # All-About-NVIDIA-Drivers-On-Linux-Kernel
 
 
+> Nvidia is specifically releasing an open source kernel driver under a dual MIT/GPL license and is not currently open-sourcing parts of the driver that run in user space. This includes drivers for OpenGL, Vulkan, OpenCL, and CUDA, which are still closed source, in addition to the firmware for the GPU System Processor (GSP). Nvidia says these drivers "will remain closed source and published with pre-built binaries," so it doesn't sound like there are immediate plans to release open source versions.
+
+Source: https://arstechnica.com/gadgets/2022/05/nvidia-takes-first-step-toward-open-source-linux-gpu-drivers/
+
 ### Official Blog Post
 <https://developer.nvidia.com/blog/nvidia-releases-open-source-gpu-kernel-modules/>
 
